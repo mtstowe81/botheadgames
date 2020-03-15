@@ -1,0 +1,12 @@
+#Deployment options edited by the Hub
+#Please do not edit manually as this file is rewritten by the Hub
+
+deployments
+{
+    #platforms android iphone osx win10 win32 wp8 wp81 ws80 ws81
+    icon = "resources/textures/icon.png"
+    version = "1.0.35"
+    provider = "BotHead Games"
+    copyright = "(C) BotHead Games"
+
+}
